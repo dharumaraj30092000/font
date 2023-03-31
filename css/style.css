@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&family=Raleway:wght@300&display=swap');
+* {
+	font-family: raleway,sans-serif;
+}
+/*------- font-style -------*/
+.font-style p {
+	font-style: /*normal*/ italic /*oblique*/;
+	font-variant: /*normal*/ small-caps;
+	font-weight: /*normal*/ bold;
+}
+div + p {
+	font-size: /*15px*/ /*large*/ 200%;
+}
